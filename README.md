@@ -7,6 +7,8 @@ ayu
 
 auto format: Autopep8
 
+notion tracker
+
 Notes:
 
 Python Variables
