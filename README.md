@@ -97,37 +97,59 @@ https://www.geeksforgeeks.org/pandas/introduction-to-pandas-in-python/
 ----
 
 Python tutorials - Basics:
+
 https://www.youtube.com/watch?v=Rq5gJVxz55Q&list=PLJ6YX-wErbBk&index=26
+
 https://www.youtube.com/watch?v=s3IvdkCq2_c&list=PL_c9BZzLwBRJ55lLw8PdPlTVblIlPKfX5&index=2
+
 https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLJ6YX-wErbBk&index=1
+
 https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLJ6YX-wErbBk&index=9
+
 https://www.youtube.com/watch?v=XKHEtdqhLK8
+
 https://www.youtube.com/watch?v=H2EJuAcrZYU&list=PLJ6YX-wErbBk&index=32
 
 -- Intermediate----
+
 https://www.youtube.com/watch?v=adNgan70iyU&list=PLJ6YX-wErbBk&index=33
+
 https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLJ6YX-wErbBk&index=12
+
 https://www.youtube.com/watch?v=Lc5LKDqhyzs&list=PLJ6YX-wErbBk&index=42
+
 https://www.youtube.com/watch?v=nLRL_NcnK-4&list=PLJ6YX-wErbBk&index=5
 
 
 Data Analytics/science:
+
 Pandas - https://www.youtube.com/watch?v=VXtjG_GzO7Q
+
 Numpy - https://www.youtube.com/watch?v=VXU4LSAQDSc
 
 https://www.youtube.com/watch?v=wUSDVGivd-8
+
 https://www.youtube.com/watch?v=GPVsHOlRBBI&list=PLJ6YX-wErbBk&index=19
+
 https://www.youtube.com/watch?v=CMEWVn1uZpQ&list=PLJ6YX-wErbBk&index=35
+
 https://www.youtube.com/watch?v=r-uOLxNrNk8&t=7s
+
 https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=PLJ6YX-wErbBk&index=11
+
 https://www.youtube.com/watch?v=ygXn5nV5qFc&list=PLJ6YX-wErbBk&index=24
+
 https://www.youtube.com/watch?v=gmuTjeQUbTM&list=PLJ6YX-wErbBk&index=27
 
 Python tasks/projects:
 https://www.youtube.com/watch?v=yVl_G-F7m8c&list=PLJ6YX-wErbBk&index=33
+
 https://www.youtube.com/watch?v=rM-jDeSgOQw&list=PLJ6YX-wErbBk&index=44
+
 https://www.youtube.com/watch?v=ix9cRaBkVe0&list=PLJ6YX-wErbBk&index=4
+
 https://www.youtube.com/watch?v=XKHEtdqhLK8
+
 https://www.youtube.com/watch?v=iVajTZgMk4M&list=PLJ6YX-wErbBk&index=58
 
 
